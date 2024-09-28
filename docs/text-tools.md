@@ -150,8 +150,8 @@
 
 ## ▷ Text Rephrasing
 
-* ⭐ **[QuillBot AI](https://quillbot.com/)** - AI-Enhanced Text Rephrasing
-* ⭐ **[Paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - AI Text Rephrasing /Generation
+* ⭐ **[QuillBot AI](https://quillbot.com/)** or [Rewritify](https://www.rewritify.com/)  - AI-Enhanced Text Rephrasing
+* ⭐ **[Paraphrasetool](https://paraphrasetool.com/)** or [Rephrasely](https://rephrasely.com/) - AI Text Rephrasing / Generation
 * ⭐ **[Goblin.tools](https://goblin.tools/)** - Transform Text with Spiciness Levels
 * [Paraphraser](https://www.paraphraser.io/) - Multilingual Text Rephrasing
 * [Recast](https://www.letsrecast.ai/) or [SMMRY](https://smmry.com/) - Text Summaries
@@ -185,8 +185,7 @@
 * [FancySymbol](https://fancysymbol.com/)
 * [Unifoundry](https://unifoundry.com/)
 * [Cool Symbol](https://coolsymbol.com/)
-* [FastEmoji](https://www.fastemoji.com/), [Text Smileys](https://lenny-face-generator.textsmilies.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
-
+* [FastEmoji](https://www.fastemoji.com/), [GetSymbol](https://www.getsymbol.net/) / [2](https://www.cute-kaomoji.com/), [Text Smileys](https://lenny-face-generator.textsmilies.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
 
 ***
 
@@ -215,7 +214,7 @@
 * ↪️ **[Code Editors / IDEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_ides_.2F_code_editors)**
 * ⭐ **[Notepad++](https://notepad-plus-plus.org/)** / [Markdown](https://nea.github.io/MarkdownViewerPlusPlus/) - Notepad & Code Editor
 * ⭐ **[Obsidian](https://obsidian.md/)** - Markdown Note-Taking
-* ⭐ **Obsidian Tools** - [Discord](https://discord.gg/obsidianmd) / [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Publish Notes](https://github.com/oleeskild/obsidian-digital-garden) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Gdrive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
+* ⭐ **Obsidian Tools** - [Discord](https://discord.gg/obsidianmd) / [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Publish Notes](https://github.com/oleeskild/obsidian-digital-garden) / [Web Clipper](https://github.com/obsidianmd/obsidian-clipper) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Gdrive Sync](https://github.com/stravo1/obsidian-gdrive-sync) / [Backup](https://github.com/denolehov/obsidian-git) / [ChatGPT Addon](https://github.com/logancyang/obsidian-copilot), [2](https://github.com/vasilecampeanu/obsidian-weaver)
 * ⭐ **[Notion](https://www.notion.so/)** - Note-Taking
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20) / [Markdown Extractor](https://github.com/souvikinator/notion-to-md)
 * ⭐ **[Notesnook](https://notesnook.com/)** - Note-Taking
@@ -229,7 +228,6 @@
 * [Simplenote](https://simplenote.com/) - Crossplatform Note-Taking
 * [Butterfly](https://docs.butterfly.linwood.dev/) - Handwritten Notes / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
-* [NotebookLM](https://notebooklm.google/) or [Raven](https://www.ravenotes.com/) - AI Note-Taking
 * [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [GitHub](https://github.com/xournalpp/xournalpp)
 * [Notepads](https://www.notepadsapp.com/) - Text Editor
 * [Xed](https://github.com/linuxmint/xed) - GTK3 Text Editor
@@ -373,7 +371,7 @@
 
 * 🌐 **[Author Stash](https://authorstash.com/)** - Writing Tools / Resources
 * ↪️ **[AI Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_text_generators)**
-* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
+* ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Write.as](https://write.as/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
 * ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 * ⭐ **[NovelWriter](https://novelwriter.io/)** or [Bibisco](https://bibisco.com/) - Novel Editors
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps / [Songs](https://deardiary.ai/)

@@ -29,6 +29,7 @@
 * ⭐ **[All Things Linux](https://discord.gg/linux)** - Linux Discord Server
 * [Linux.Chat](https://discord.gg/linuxchat) - Linux Discord Server
 * [Linux x Technology](https://linuxdiscord.com/) - Linux Discord Server
+* [Arch Linux Community](https://discord.gg/3m6dbPR) - Linux Discord Server
 * [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
 * [Linux.org](https://linux.org/) - Linux Forum
 
@@ -144,7 +145,7 @@
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
 * [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
 * [AudioSource](https://github.com/gdzx/audiosource) - Use Mobile Device as Microphone
-* [Ollama](https://ollama.ai/) - Run LLMs / [Discord](https://discord.gg/ollama)
+* [Ollama](https://ollama.ai/) / [Discord](https://discord.gg/ollama) or [Alpaca](https://jeffser.com/alpaca/) - Run LLMs on Linux
 * [nyrna](https://nyrna.merritt.codes) - Suspend Apps / Games
 * [Solaar](https://github.com/pwr-Solaar/Solaar) - Logitech Device Manager
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
@@ -284,7 +285,6 @@ Linux Gaming Guide
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install) / [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045)
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
-* [RetroPlus](https://github.com/Vysp3r/RetroPlus) - ROM Downloader
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
@@ -397,7 +397,7 @@ Linux Gaming Guide
 * [Hexchat](https://hexchat.github.io/), [Adium](https://adium.im/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi) or [Weechat](https://weechat.org/) - IRC Clients
 * [Dino](https://dino.im/) - XMPP Client
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
-* [ZapZap](https://rtosta.com/zapzap-web/) - WhatsApp Client
+* [ZapZap](https://rtosta.com/zapzap-web/) - WhatsApp Client / [GitHub](https://github.com/rafatosta/zapzap)
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer), [Pipe Viewer](https://github.com/trizen/pipe-viewer) or [Pipeline](https://gitlab.com/schmiddi-on-mobile/pipeline) - YouTube Clients
 * [Giara](https://aur.archlinux.org/packages/giara/) - Reddit Client
 * [BetterDiscordctl](https://github.com/bb010g/betterdiscordctl) - Modded Discord Client / [Guide](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)

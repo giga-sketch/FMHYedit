@@ -170,6 +170,7 @@
 
 * ⭐ **[Calishot](http://85.10.194.198:5001/index/summary)** - Calibre Library
 * ⭐ **[Ebook-Translator](https://translator.bookfere.com)** - Calibre Translators
+* [Libgen for Calibre](https://github.com/poochinski9/libgen-calibre-store-plugin) - Libgen for Calibre
 * [opencalibre](https://reddit.com/r/opencalibre) - Calibre Library / [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
 * [Calibre Library List](https://pastebin.com/LS39rWhM) - Calibre Libraries
 * [acsm-calibre-plugin](https://github.com/Leseratte10/acsm-calibre-plugin) - ACSM Plugin
@@ -349,7 +350,6 @@
 * [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomics Downloader
 * [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Reader
 * [Komga](https://komga.org/) - Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)
-* [Webtoons Downloader](https://www.mediafire.com/file/7243pcp72ttzisk/Webtoons_Downloader_by_RieqyNS13.zip/file) - Webtoons Downloader
 * [ComicTagger](https://github.com/comictagger/comictagger) - Comic Metadata Tagger
 
 ***
@@ -472,7 +472,7 @@
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
 * [LN-Crawler-Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab), [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel) or [anime-dl](https://github.com/vrienstudios/anime-dl) - Light Novel Downloaders
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
-* [LNMTL](https://lnmtl.com/) - Light Novel Translator
+* [LNMTL](https://lnmtl.com/) or [Omni](https://app.readomni.com/) - Light Novel Translators
 * [Scan Updates](https://www.scanupdates.com/) - Scan Release Updates
 
 ***
@@ -599,9 +599,11 @@
 * [Magazines Scientific](https://scientificmagazines.top/) - Science Magazines
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science
 * [Science Forums](https://www.scienceforums.net/) - Forums / Science
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://rentry.co/FMHYBase64#astronomy-physics) - Books / Notes / Astronomy
+* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://rentry.co/FMHYBase64#astronomy-physics) - Books / Notes / Astronomy / Physics
+* [GoodTheorist](https://www.goodtheorist.science/) - Theoretical Physics
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
 * [RealNotComplex](https://realnotcomplex.com/) - Math / Books
+* [HBPMS](https://hbpms.blogspot.com/) - Math / Books
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - Engineering
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
@@ -850,6 +852,7 @@
 * [Gnooks](https://www.gnooks.com/) - Book Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
 * [WhichBook](https://www.whichbook.net/) - Book Recommendations
+* [Five Books](https://fivebooks.com/) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [Newvella](https://newvella.com/) - Book Recommendations
@@ -926,7 +929,7 @@
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
-* [Amazon Kindle EPUB Fix]( https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
+* [Amazon Kindle EPUB Fix](https://kindle-epub-fix.netlify.app/) - Fix EPUB to work with Send to Kindle
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
 * [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
 * [Kindle Software Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037&highlight=Jailbreak) - Jailbreak Kindle

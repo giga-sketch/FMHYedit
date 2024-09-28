@@ -60,7 +60,7 @@
 
 ## ▷ Bookmark Managers
 
-* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Extension
+* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** - Firefox Extension
 * ⭐ **[Raindrop.io](https://raindrop.io/)**
 * [Pilgrim](https://pilgrim.are.na/) - Tree Style Path Bookmarking
 * [Bort](https://bort.io/) - Bookmark Manager / Dropbox Sync
@@ -247,7 +247,7 @@
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
 * [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
 * [Intelligence X](https://intelx.io/tools) or [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Multiple Search Tools
-* [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [OpenDirectory](https://odir.us/) or [SiteLike.org](https://www.sitelike.org/) - Similar Site Searches
+* [SimilarSiteSearch](https://www.similarsitesearch.com/), [SimilarWeb](https://similarweb.com/), [SitesLikes](https://www.siteslike.com/), [TopSimilarSites](https://topsimilarsites.com/), [SimilarSites](https://similarsites.com/), [OpenDirectory](https://odir.us/) or [SiteLike.org](https://www.sitelike.org/) - Similar Site Searches
 * [Marginalia Search](https://search.marginalia.nu/) - Text-Based Search Engine
 * [TheOldNet](https://theoldnet.com/) or [oldavista](https://www.oldavista.com/) - Retro Search Engines
 * [LumenDatabase](https://lumendatabase.org/) - Search DMCA Takedown Requests
@@ -325,7 +325,7 @@
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Search Video Torrent Sites
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)**, [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) or [Kuroiru](https://kuroiru.co/) - Search Anime Streaming Sites
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Search Anime Download Sites
-* ⭐ **[Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)** - Search Anime Torrent Sites
+* ⭐ **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)** - Search Anime Torrent Sites
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)**, [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w), [3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Search Audio Download Sites
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Search Audio Torrent Sites
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [Rezi Search](https://rezi.one/) or [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Search Engines
@@ -527,7 +527,7 @@
 * [TrashMail](https://trashmail.com/) - Email Forwarding Service
 * [Tmail.io](https://tmail.io/) - Gmail / Forever / 1 Day / 4 Domains
 * [22.Do](https://22.do/) - Gmail / 1 Day / 1 Day / 3 Domains
-* [Ago Gmail](https://www.agogmail.com/) - Gmail / 2 Domains
+* [MailTickingl](https://www.mailticking.com/) - Gmail / 2 Domains
 * [YOPmail](https://yopmail.com/email-generator) - Forever / 8 Days / 100+ Domains
 * [TempMail.Plus](https://tempmail.plus/en/) - Forever / 7 Days / 9 Domains / [.onion](http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion/)
 * [instant-email.org](https://instant-email.org/) - Forever / 3 Days / 7 Domains
@@ -896,7 +896,7 @@
 ## ▷ OSINT Collections
 
 * [OSINT Combine](https://www.osintcombine.com/tools) - OSINT Investigation Tools
-* [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/) - Online Investigation Toolkit
+* [Bellingcat](https://bellingcat.gitbook.io/toolkit) - Online Investigation Toolkit
 * [Reuser](https://rr.reuser.biz/) - OSINT Resource Discovery Toolkit
 * [Cyber Detective's OSINT Collection](https://github.com/cipher387/osint_stuff_tool_collection) - General Index
 * [Nixintel's OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list) - General Index

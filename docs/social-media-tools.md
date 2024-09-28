@@ -170,6 +170,7 @@
 
 # ► Reddit Tools
 
+* ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * [Photon](https://photon-reddit.com/), [reditr](https://reditr.com/), [RDX](https://rdx.overdevs.com/) or [redlib](https://redlib.fmhy.net/) / [GitHub](https://github.com/redlib-org/redlib) - Reddit Frontends
@@ -379,12 +380,12 @@
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
 * [ytcropper](https://ytcropper.com/), [yt_clipper](https://github.com/exwm/yt_clipper), [Apps Golem](https://appsgolem.com/en/cut-youtube-video) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos / Create Clips
 * [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
-* [Solidpoint](https://solidpoint.ai/), [Glasp](https://glasp.co/youtube-summary), [Glarity](https://glarity.app/), [Quickvid](https://quickvid.vercel.app/), [Eightify](https://eightify.app/), [VideoGist](https://www.videogist.co/),[VideoHighlight](https://videohighlight.com/), [Clipnote](https://clipnote.ai/) or [Summarize](https://summarize.tech/)- Summarize YouTube Videos
+* [Gemini](https://gemini.google.com/), [Solidpoint](https://solidpoint.ai/), [Glasp](https://glasp.co/youtube-summary), [Glarity](https://glarity.app/), [Quickvid](https://quickvid.vercel.app/), [Eightify](https://eightify.app/), [VideoGist](https://www.videogist.co/),[VideoHighlight](https://videohighlight.com/), [Clipnote](https://clipnote.ai/) or [Summarize](https://summarize.tech/)- Summarize YouTube Videos
 * [Stepify](https://stepify.tech/) - Get Step-By-Step Tutorial of YT Video
 * [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
 * [Kament](https://kament.io/) - Add Comments on Comment Disabled Videos
-* [Loadtup](https://loadtup.com/), [FrogBase](https://github.com/hayabhay/frogbase) - YouTube Video Transcribers
+* [Loadtup](https://loadtup.com/) or [FrogBase](https://github.com/hayabhay/frogbase) - YouTube Video Transcribers
 * [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) or [YouTube_subtitle_downloader](https://t.me/youtube_subtitle_downloader_bot) - Download Subs from YouTube Videos
 * [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to YouTube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi)
 * [YouTube Subtitle Position](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-position/) - Change Position of YouTube Subtitles
@@ -458,7 +459,7 @@
 ## ▷ YouTube Customization
 
 * ⭐ **[Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](https://improvedtube.com/), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [Magic Actions](https://www.chromeactions.com/) - YouTube Enhancement Extensions
-* ⭐ **[ReturnYouTubeDislikes](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
+* ⭐ **[ReturnYouTubeDislikes](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/), [2](https://jabrek.net/dislike-en) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism / Clickbait
 * [Untrap](https://untrap.app/), [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/rahgurung/YourTube) - Distraction-Free YouTube
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
@@ -485,7 +486,7 @@
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix YouTube Search / Declutter Homepage
 * [YouTube Search Grid View](https://greasyfork.org/en/scripts/481422-youtube-search-results-in-grid-view) - View Results in Grid
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
-* [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaaen) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
+* [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chromewebstore.google.com/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaaen), [YCF](https://ytcomment.kmcat.uk/) or [YouTube Comment Finder](https://www.youtubecommentfinder.com) - YouTube Comment Search
 * [Project Random](https://0xbeef.co.uk/random) or [petittube](https://petittube.com/) - Find YouTube Videos with >100 Views
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - Find Deleted YouTube Videos

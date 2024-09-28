@@ -9,7 +9,6 @@
 * 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
 * ↪️ **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated Rentry Guide List  / [Backup Rar](https://mega.nz/file/ajgAnZRY#dQgzhwk0v8L9PyoiSGzw54n1bUC35Brq2QgcK5bglHw)
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
@@ -115,6 +114,7 @@
 * [KitchenConfidentials](https://kitchenconfidentials.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
 * [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) or [Fridgey](https://f-droid.org/packages/lying.fengfeng.foodrecords/) - Food Expiration Trackers
 * [Cheese.com](https://cheese.com/) - Cheese Resources
+* [Crispy Creations](https://rentry.co/crispycreations) - Potato Chip Info / Guides
 * [Tea Guide](https://pastebin.com/raw/80GeeXJV) - Tea Guide Masterlist
 * [Coffee Guide](https://pastebin.com/raw/UEzwuyLz) - Coffee Guide Masterlist
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
@@ -741,6 +741,7 @@
 * [We Work Remotely](https://weworkremotely.com/) - Remote Jobs
 * [NoDesk](https://nodesk.co/) - Remote Jobs
 * [Remote OK](https://remoteok.com/) - Remote Jobs
+* [JobsCollider](https://jobscollider.com/) - Remote Jobs
 * [Dynamite Jobs](https://dynamitejobs.com/) - Remote Jobs
 * [Remotists](https://remotists.com/) - Remote Jobs
 * [Working Nomads](https://www.workingnomads.com/jobs) - Remote Jobs
@@ -811,7 +812,7 @@
 
 * 🌐 **[/r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
 * ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
-* ⭐ **[Ghostfolio](https://ghostfol.io/)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Maybe](https://hello.maybe.co/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
+* ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Maybe](https://hello.maybe.co/), [HomeBank](https://www.gethomebank.org/en/index.php), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance Managers
 * [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
 * [Ivy Wallet](https://github.com/Ivy-Apps/ivy-wallet), [money-manager](https://github.com/moneymanagerex/android-money-manager-ex),[Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) or [Sushi](https://github.com/jerameel/sushi) - Android Finance / Expense Managers
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
@@ -1140,7 +1141,7 @@
 * 🌐 **[Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)** - Piracy Subreddits
 * ↪️ **[Multireddit Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)**
 * ↪️ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
-* ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [comfy box](https://comfybox.floofey.dog/), [SheepishPatio](https://sheepishpatio.net/) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
+* ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC), [comfy box](https://comfybox.floofey.dog/), [SheepishPatio](https://sheepishpatio.net/), [Macintosh Cafe](https://forum.agoraroad.com/) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
 * ⭐ **[Our World of Text](https://ourworldoftext.com/)** or [Your World of Text](https://www.yourworldoftext.com/) - Infinite Community Text Grid
 * ⭐ **[SufficientVelocity](https://forums.sufficientvelocity.com/)**, [Myth Weavers](https://www.myth-weavers.com/), [RolePlayer](https://www.roleplayer.me/) or [SpaceBattles](https://forums.spacebattles.com/) - Fanfiction / Roleplaying  Communities
 * [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
@@ -1204,6 +1205,7 @@
 * [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Statuses
 * [Kittenwar!](https://www.kittenwar.com/) - Rate Kittens
+* [Cataas](https://cataas.com/cat) - Random Cat Images
 * [procatinator](https://procatinator.com/) - Cat GIFs & Music
 * [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
@@ -1443,6 +1445,7 @@
 * ⭐ **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles
 * ⭐ **[Uncyclopedia](https://en.uncyclopedia.co/)** - Wikipedia Parody
 * ⭐ **[Drinking Game Zone](https://drinkinggamezone.com/)** - Drinking Games Encyclopedia
+* ⭐ **[WhatBeatsRock](https://www.whatbeatsrock.com/)** - Guess What Beats What
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
 * [The Red Button](https://clicktheredbutton.com/) - Find Random Sites 
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites 

@@ -195,7 +195,7 @@
 * ⭐ **[Fort](https://github.com/tnodir/fort)** - Firewall
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall
 * ⭐ **[nekoray](https://github.com/MatsuriDayo/nekoray)**, [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free), [v2rayN](https://github.com/2dust/v2rayN), [Qv2ray](https://github.com/Qv2ray/Qv2ray) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
-* V2Ray Tools - [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/) / [Tutorial](https://github.com/freefq/tutorials), [2]( https://rentry.org/bypass-gov-restrictions)
+* V2Ray Tools - [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/) / [Tutorial](https://github.com/freefq/tutorials), [2](https://rentry.org/bypass-gov-restrictions)
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 
@@ -303,7 +303,6 @@
 * [lil mail server](https://uq.ci/) - Simple Privacy-Focused Email
 * [EmailPrivacyTester](https://www.emailprivacytester.com/) - Email Privacy Test
 * [SecLists](https://seclists.org/) - Security Mailing List Archive
-* [Have I Been Sold?](https://haveibeensold.app/) - Monitor Third Party Email Sales
 
 ***
 
@@ -312,7 +311,7 @@
 * ⭐ **[ClearURLs](https://docs.clearurls.xyz)** - Remove Tracking Elements from URLs / [Features](https://gitlab.com/ClearURLs/ClearUrls#features), [2](https://i.ibb.co/4JsQwP5/sqzfmLD.png) / Can Break Sites
 * ⭐ **[CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)** - Prevent Canvas Fingerprinting
 * ⭐ **[Creepjs](https://abrahamjuliot.github.io/creepjs)**, [WEBKAY](https://webkay.robinlinus.com/), [BrowserRecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Device Info](https://www.deviceinfo.me/), [CoverYourTracks](https://firstpartysimulator.org/) / [2](https://coveryourtracks.eff.org/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
-* [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
+* [dataskydd](https://webbkoll.5july.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
 * [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
 * [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
 * [BrowserLeaks](https://browserleaks.com/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak.net](https://ipleak.net) - IP Leak Tests
@@ -430,7 +429,7 @@
 
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
 * [Psiphon](https://psiphon.ca/) - Free Proxy / VPN
-* [Lantern](https://lantern.io/) - Free Proxy / Low Limits
+* [Lantern](https://lantern.io/) - Free Proxy / Slowed Past 250mb
 * [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [PowerTunnel](https://github.com/krlvm/PowerTunnel), [zapret](https://github.com/bol-van/zapret) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service

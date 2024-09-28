@@ -33,12 +33,10 @@
 
 * ⭐ **[FaselHD](https://www.faselhd.center/)** - Movies / TV / Anime / Sub / 1080p / Use Adblocker
 * ⭐ **[RunTV](https://runtv.cc/)** - Anime / Sub / 1080p
-* ⭐ **[Animerulz](https://animerulz.net/)** - Anime / Sub / Dub / Hindi / Telugu / Tamil / 1080p
-* [ArabLionz](https://arlionztv.pro/) - Movies / TV / Sub / 1080p
+* [ArabLionz](https://arlionztv.ink/), [2](https://arlionztv.pro/) - Movies / TV / Sub / 1080p
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
-* [dramacafe](https://w10.dramacafe-tv.com/) - Movies / TV / Anime / Sub / 1080p
+* [dramacafe](https://dramacafe-tv.com/) - Movies / TV / Anime / Sub / 1080p
 * [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
-* [CinemaTy](https://66dogdol.shop/) - Movies / TV / Anime / Sub / 1080p
 * [arabseed](https://m.asd.quest/) - Movies / TV / Wrestling / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [AnimeTak](https://animetak.top/) - Anime / Sub / 1080p
@@ -56,6 +54,7 @@
 ## ▷ Reading / القراءة
 
 * [Noor Book](https://www.noor-book.com/) - Books
+* [FoulaBook](https://foulabook.com/) - Books
 * [books-library](https://books-library.website/) - Books
 * [EbookSar](https://www.ebooksar.net/) - Books / [Telegram](https://t.me/ebooksar)
 * [AlarabiMag](https://www.alarabimag.com/) - Books
@@ -538,7 +537,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.baby/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/olamovies_officialv6)
+* ⭐ **[OlaMovies](https://olamovies.hair/)** - Movies / TV / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/olamovies_officialv6)
 * ⭐ **[VegaMovies](https://vegamovies.nz/)** - Movies / TV / Anime / 1080p / 4K / [Telegram](https://telegram.dog/VegamoviesTo_Official)
 * ⭐ **[MkvCinemas](https://mkvcinemas.cat/)** - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * ⭐ **[MoviesMod](https://moviesmod.life/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
@@ -585,6 +584,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Bharatflix](https://bharatflix.live/)** - Movies / TV / Anime / Sub / Dub / 1080p
 * ⭐ **[ToonStream](https://toonstream.co/)** - Cartoons / 1080p / [Telegram](https://telegram.me/toonstream)
 * ⭐ **[Animerulz](https://animerulz.net)** - Anime / Hindi / Telugu / Tamil / 1080p / [Telegram](https://telegram.me/animerulz_xyz)
 * ⭐ **[Braflix](https://www.braflix.ru/)** - Movies / TV / Anime / Dub / 4K / 1080p
@@ -593,6 +593,7 @@
 * [ToonBaba](https://toonbaba.site/) - Anime
 * [9xmovies](https://9xmovies.fund/), [2](https://9kmovies.com/) - Movies / TV / Sub / Dub / 1080p / 4K
 * [HHDMovies](https://hhdmovies.baby/) - Movies / TV / Sub / Dub / 1080p
+* [streamblasters](https://streamblasters.pm/) - Movies / TV / Sub / Dub / 1080p
 * [MovieRulzHD](https://movierulzhd.taxi/) - Movies / TV / Sub / 1080p
 * [Desi Serials](https://www.desi-serials.cc/), [2](https://playdesi.net/playdesi/) - South Asian Movies / TV / Live / Sub / Dub / 1080p
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies / Dub / 1080p
@@ -1056,7 +1057,9 @@
 * [Download de Livros Grátis](https://download-de-livros-gratis.webnode.page) - Courses
 * [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br) - Courses
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
+* [eaulas](https://eaulas.usp.br/portal/home) - Courses
 * [Veduca](https://veduca.org) - Courses
+* [Moodle](https://moodle.ifrs.edu.br/course/index.php?categoryid=38) - MOOC Courses
 * [Marcos Aba](https://www.youtube.com/@MarcosAba/videos) - Math Courses
 * [Lesics](https://youtube.com/@LesicsPOR) - Engineering Courses
 * [DIO](https://www.dio.me) - Development Courses
@@ -1200,7 +1203,7 @@
 
 ## ▷ Downloading / Скачивание
 
-* ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS / [App](https://github.com/slartus/4pdaClient-plus)
+* ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS / [App](https://github.com/slartus/4pdaClient-plus) / [Captcha Note](https://pastebin.com/NNh7e2HB), [2](https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html)
 * [Androeed](https://androeed.store/), [2](https://androeed.ru/) - Android
 * [m0nkrus](https://w14.monkrus.ws/) or [DC Hublist](https://dchublist.ru/hubs/) - Software
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Games / Books
@@ -1568,7 +1571,7 @@
 
 ## ▷ Streaming สตรีม
 
-* [moviehdfree]( https://moviehdfree.net/) - Movies / TV
+* [moviehdfree](https://moviehdfree.net/) - Movies / TV
 * [037hdmovie](https://www.037hdmovie.com/) - Movies
 * [movie11](https://movie11.com/) - Movies
 
